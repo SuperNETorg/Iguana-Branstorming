@@ -1,4 +1,4 @@
-# Unity-Branstorming
+# Iguana Branstorming
 Brainstorming ideas on DAPPs by SuperNET team
 
 This is the place where we can document and refine our ideas for DAPPs we can build using Komodo Plaform technology.
